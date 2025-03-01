@@ -1,4 +1,5 @@
-#Data warehousing and Analytical project
+#Data warehousing and Analytical project:
+
 This project demonstrates a complete data warehousing and analytics solution, from building a data warehouse to performing data analysis. It highlights industry best practices in data engineering and analytics, focusing on transforming raw data into actionable insights. The first phase involves building a SQL Server-based data warehouse that consolidates sales data from ERP and CRM systems, ensuring clean, integrated data. The second phase focuses on data analysis, using tools like Excel, Power BI, and Tableau to uncover insights, create visualizations, and generate reports for informed decision-making.
 
 Data Warehouse Development (Data Engineering)
